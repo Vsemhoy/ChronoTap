@@ -1,0 +1,1 @@
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\ChronoTap.csproj;x64

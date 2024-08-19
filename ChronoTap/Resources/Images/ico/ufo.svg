@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217.51 247.06">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .41;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: .62;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m103.13,217.47c17.15,0,31.3,5.64,33.4,12.92L103.13,5.39l-33.4,225c2.1-7.28,16.24-12.92,33.4-12.92Z"/>
+  <circle class="cls-2" cx="103.13" cy="33.67" r="33.67"/>
+  <path class="cls-2" d="m105.8,30.47c72.87,0,111.7,28.35,111.7,32.05s-37.89,27.12-111.7,27.12S0,66.52,0,61.59s32.62-31.12,105.8-31.12Z"/>
+  <ellipse class="cls-3" cx="103.13" cy="232.26" rx="33.67" ry="14.79"/>
+</svg>
