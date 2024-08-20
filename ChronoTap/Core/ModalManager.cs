@@ -219,5 +219,34 @@ namespace ChronoTap.Core
                 return;
             }
         }
+
+
+
+
+        public static async Task EventEditorModal_ActionSave()
+        {
+            var savedItem = LocalStorage.EditedChrono;
+            savedItem.Result = eventEditorModal.resultText;
+            savedItem.Description = eventEditorModal.descriptionText;
+            //savedItem.BgColor = categoryEditorModal.bgColor.ToHex();
+            //savedItem.TextColor = categoryEditorModal.txColor.ToHex();
+            //savedItem.Icon = LocalStorage.SelectedIcon;
+
+            var result = await ChronoEvent.UpdateItemAsync(savedItem);
+            
+            if (result > 0)
+            {
+                
+                LocalStorage.EditedChrono = null;
+                eventEditorModal.Hide();
+                return;
+
+            }
+            else
+            {
+                eventEditorModal.Alert("Error", "Can't save, something wrong :(");
+                return;
+            }
+        }
     }
 }

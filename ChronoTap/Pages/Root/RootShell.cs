@@ -2,7 +2,6 @@
 using ChronoTap.Pages.Com.MainPage;
 using ChronoTap.Pages.Com.MainPage.Stacks;
 
-using ChronoTap.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,7 +40,7 @@ namespace ChronoTap.Pages.Root
 
 
             this.StoryPage = new ShellContent();
-            this.StoryPage.Content = PageManager.StoryPage;
+            this.StoryPage.Content =  PageManager.StoryPage;
             this.StoryPage.Title = "Story";
             this.StoryPage.Icon = "clock_history.png";
             this.StoryPage.FlyoutItemIsVisible = false;

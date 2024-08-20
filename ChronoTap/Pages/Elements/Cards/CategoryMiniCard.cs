@@ -28,8 +28,11 @@ namespace ChronoTap.Pages.Elements.Cards
 
         public string id { get; set; }
 
+        public EventCategory sourceObject { get; set; }
+
         public CategoryMiniCard(EventCategory itemObject)
         {
+            this.sourceObject = itemObject;
             this.id = itemObject.Id;
             this.MinimumHeightRequest = BaseTheme.THEME.categoryItemMiniCardMinHeight;
             this.Padding = new Thickness(0);
@@ -50,9 +53,9 @@ namespace ChronoTap.Pages.Elements.Cards
                 this.image.HeightRequest = BaseTheme.THEME.MiniCardHeightMinHeight;
                 this.image.Opacity = 1;
                 this.image.VerticalOptions = LayoutOptions.Center;
-                //CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
-                //tintColor.TintColor = Color.FromHex(itemObject.TextColor);
-                //this.image.Behaviors.Add(tintColor);
+                CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
+                tintColor.TintColor = Color.FromHex(itemObject.TextColor);
+                this.image.Behaviors.Add(tintColor);
             }
 
 
@@ -152,7 +155,7 @@ namespace ChronoTap.Pages.Elements.Cards
             if (this.isActive)
             {
                 this.Padding = 1;
-                this.inFrame.BorderColor = Color.FromArgb("EEAAAAAA");
+                this.inFrame.BorderColor = Color.FromHex(this.sourceObject.TextColor);
                 this.textLabel.FontAttributes = FontAttributes.Bold;
             }
             else

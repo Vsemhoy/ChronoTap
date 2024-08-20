@@ -1,4 +1,7 @@
-﻿using ChronoTap.Pages.Elements.Text;
+﻿using ChronoTap.Core;
+using ChronoTap.Pages.Elements.Text;
+using ChronoTap.Storage;
+using ChronoTap.Storage.Database.Models;
 using ChronoTap.Style;
 using ChronoTap.Style;
 using Microsoft.Maui.Controls;
@@ -33,9 +36,13 @@ namespace ChronoTap.Pages.Elements.Modals
 
 
 
-        private Entry titleInput = new Entry();
+        private Entry resultInput = new Entry();
         private Editor descriptionInput = new Editor();
 
+        public string? resultText = string.Empty;
+        public string? descriptionText = string.Empty;
+
+        public ChronoEvent sourceData { get; set; }
 
         public EventEditorModal()
         {
@@ -58,15 +65,17 @@ namespace ChronoTap.Pages.Elements.Modals
 
 
 
-            this.titleInput.BackgroundColor = Colors.White;
+            this.resultInput.BackgroundColor = Colors.White;
             this.descriptionInput.BackgroundColor = Colors.White;
             this.descriptionInput.AutoSize = EditorAutoSizeOption.TextChanges;
-            var title = new LegendLabel("Name:");
+            var title = new LegendLabel("Result:");
             this.mainStack.Children.Add(title);
-            this.mainStack.Children.Add(this.titleInput);
+            this.mainStack.Children.Add(this.resultInput);
+            this.resultInput.MaxLength = 220;
             var description = new LegendLabel("Description:");
             this.mainStack.Children.Add(description);
             this.mainStack.Children.Add(this.descriptionInput);
+            this.descriptionInput.MaxLength = 2200;
 
 
             this.button_close.Text = "Close";
@@ -91,8 +100,22 @@ namespace ChronoTap.Pages.Elements.Modals
             this.Content = this.mainGrid;
 
             this.SetButtonBlock();
+            this.button_save.Clicked += Button_saveEvent_Clicked;
         }
 
+
+        private async void Button_saveEvent_Clicked(object? sender, EventArgs e)
+        {
+            if (ModalManager.eventEditorModal.CheckValid())
+            {
+                LocalStorage.EditedChrono = this.sourceData;
+                await ModalManager.EventEditorModal_ActionSave();
+                
+            } else
+            {
+                ModalManager.eventEditorModal.Alert("Error", "Check input text");
+            }
+        }
 
         public void SetButtonBlock()
         {
@@ -106,15 +129,112 @@ namespace ChronoTap.Pages.Elements.Modals
             {
                 buttonGrid_2.Children.Add(this.button_create);
                 Grid.SetColumn(this.button_create, 1);
-                this.Title = "Create new category";
+                //this.Title = "Create new category";
             }
             else
             {
                 buttonGrid_2.Children.Add(this.button_save);
                 Grid.SetColumn(this.button_save, 1);
-                this.Title = "Edit category";
+                //this.Title = "Edit category";
 
             }
+        }
+
+
+        public void SetData(EventType evType, ChronoEvent sourceEvent)
+        {
+            if (sourceEvent.Id == null || sourceEvent.Id == string.Empty)
+            {
+                this.Title = "New " + evType.Title;
+                this.resultText = string.Empty;
+                this.descriptionText = string.Empty;
+                this.id = null;
+                
+            } else
+            {
+                this.id = sourceEvent.Id;
+                this.Title = evType.Title;
+                this.resultText = sourceEvent.Result;
+                this.descriptionText = sourceEvent.Description;
+
+            }
+            this.resultInput.Text = this.resultText == null ? string.Empty : this.resultText;
+            this.descriptionInput.Text = this.descriptionText == null ? string.Empty : this.descriptionText;
+            this.sourceData = sourceEvent;
+            this.SetButtonBlock();
+        }
+
+
+
+
+        internal async void Harvest()
+        {
+            this.resultText = this.resultInput.Text.Trim();
+            this.descriptionText = this.descriptionInput.Text.Trim();
+
+            //this.val_getLocationStart = this.chb_getLocationStart.IsChecked;
+            //this.val_getLocationEnd = this.chb_getLocationEnd.IsChecked;
+            //this.val_getLocationTrack = this.chb_getLocationTrack.IsChecked;
+            //this.val_beepOnDurationLimit = this.chb_beepOnDurationLimit.IsChecked;
+            ////this.val_isArchieved = 
+            //this.val_runNextTrackOnStop = this.chb_runNextTrackOnStop.IsChecked;
+            //this.val_runNextTrackOnLimit = this.chb_runNextTrackOnLimit.IsChecked;
+            //this.val_duration_limit = int.Parse(this.durationPicker.Text.ToString());
+            //this.val_stopOnDurationLimit = this.chb_stopOnDurationLimit.IsChecked;
+
+            //try
+            //{
+            //    for (int i = 0; i < LocalStorage.Categories.Count; i++)
+            //    {
+            //        string checkString = this.picker_category.Items[this.picker_category.SelectedIndex].Substring(this.Prefix_currentCategory.Length);
+            //        if (this.picker_category.Items.Count > 0 &&
+            //            LocalStorage.Categories[i].Title.Trim() == checkString.Trim()
+            //            )
+            //        {
+            //            this.val_select_category = LocalStorage.Categories[i].Id;
+            //            break;
+            //        }
+            //    }
+            //    this.val_select_sensitivity = this.picker_sensitivity.SelectedIndex;
+            //    this.val_next_track = null;
+            //    for (int i = 0; i < LocalStorage.Types.Count; i++)
+            //    {
+            //        if (this.picker_nextTrack.Items.Count > 0 && LocalStorage.Types[i].Title == this.picker_nextTrack.Items[this.picker_nextTrack.SelectedIndex])
+            //        {
+            //            this.val_next_track = LocalStorage.Types[i].Id;
+            //            break;
+            //        }
+            //    }
+
+            //}
+            //catch (Exception exx)
+            //{
+            //    var ex = exx.Message;
+            //}
+        }
+
+
+        internal bool CheckValid()
+        {
+            this.Harvest();
+            //if (this.titleText.Length < 2)
+            //{
+            //    this.Alert("Ooops!", "The name of your card is too short!", "OK");
+            //    return false;
+            //}
+            return true;
+        }
+
+
+        public void Alert(string title, string message, string button = "OK")
+        {
+            DisplayAlert(title, message, button);
+        }
+
+
+        public async void Hide()
+        {
+            await Navigation.PopAsync();
         }
     }
 }

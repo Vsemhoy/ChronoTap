@@ -5,11 +5,7 @@ using ChronoTap.Pages.Elements.Cards;
 using ChronoTap.Pages.Elements.Modals;
 using ChronoTap.Storage;
 using ChronoTap.Style;
-using ChronoTap.Core.Utils;
-using ChronoTap.Core;
-using ChronoTap.Pages.Com.MainPage.Stacks;
-using ChronoTap.Storage;
-using ChronoTap.Style;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;

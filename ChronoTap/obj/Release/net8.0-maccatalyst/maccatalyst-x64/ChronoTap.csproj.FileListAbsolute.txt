@@ -749,3 +749,4 @@ C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\coffer_docs.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\bin\Release\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.dll
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\bin\Release\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-x64\ChronoTap.sourcelink.json

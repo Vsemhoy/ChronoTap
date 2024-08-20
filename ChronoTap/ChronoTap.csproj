@@ -43,46 +43,46 @@
 		<AndroidSigningKeyStore>../chronotap.keystore</AndroidSigningKeyStore>
 		<AndroidSigningStorePass>ChronoKeyPass</AndroidSigningStorePass>
 		<FileVersion>1.0.0</FileVersion>
-		<AssemblyVersion>0.0.1</AssemblyVersion>
+		<AssemblyVersion>0.0.2</AssemblyVersion>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-android|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-ios|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-maccatalyst|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-windows10.0.19041.0|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-android|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-ios|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-maccatalyst|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-windows10.0.19041.0|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.1</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 

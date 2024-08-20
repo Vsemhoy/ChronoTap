@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Runtime.CompilerServices;
 using ChronoTap.Storage.Database.Models;
 using ChronoTap.Storage;
+using ChronoTap.Core;
 
 namespace ChronoTap.Pages.Elements.Cards
 {
@@ -60,9 +61,9 @@ namespace ChronoTap.Pages.Elements.Cards
             this.image.HeightRequest = 28;
 
             this.image.Behaviors.Clear();
-            //CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
-            //tintColor.TintColor = Microsoft.Maui.Graphics.Color.FromHex(LocalStorage.ActiveCategory.TextColor);
-            //this.image.Behaviors.Add(tintColor);
+            CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
+            tintColor.TintColor = Microsoft.Maui.Graphics.Color.FromHex(LocalStorage.ActiveCategory.TextColor);
+            this.image.Behaviors.Add(tintColor);
 
             iconContainer.Children.Add(image);
             iconContainer.Padding = new Thickness(3);
@@ -131,13 +132,20 @@ namespace ChronoTap.Pages.Elements.Cards
             this.swiper.RightItems.Add(swipeRightItem);
             swipeLeftItem.Clicked += SwipeLeftItem_OpenTypeEditor_Clicked;
 
-
+            tapHandler.NumberOfTapsRequired = 2;
+            //tapHandler.Tapped += this.TapEventStyle;
+            tapHandler.Tapped += this.OpenActiveEventEditor;
+            swiperBody.GestureRecognizers.Add(tapHandler);
 
             this.Children.Add(swiper);
             this.SetDurationText_Process();
         }
 
-
+        private async  void OpenActiveEventEditor(object? sender, TappedEventArgs e)
+        {
+            ModalManager.eventEditorModal.SetData(LocalStorage.ActiveType, LocalStorage.ActiveChrono);
+            await Navigation.PushAsync(ModalManager.eventEditorModal);
+        }
 
         private void SwipeLeftItem_OpenTypeEditor_Clicked(object? sender, EventArgs e)
         {

@@ -142,6 +142,9 @@ namespace ChronoTap.Pages.Elements.Cards
         {
             if (this.IsActive == true)
             {
+                ModalManager.eventEditorModal.SetData(LocalStorage.ActiveType, LocalStorage.ActiveChrono);
+
+                await Navigation.PushAsync(ModalManager.eventEditorModal);
                 return;
 
             }
@@ -210,9 +213,9 @@ namespace ChronoTap.Pages.Elements.Cards
                     this.descr.TextColor = Microsoft.Maui.Graphics.Color.FromHex(LocalStorage.OpenedCategory.TextColor);
 
                     this.image.Behaviors.Clear();
-                    //CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
-                    //tintColor.TintColor = Microsoft.Maui.Graphics.Color.FromHex(LocalStorage.OpenedCategory.TextColor);
-                    //this.image.Behaviors.Add(tintColor);
+                    CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
+                    tintColor.TintColor = Microsoft.Maui.Graphics.Color.FromHex(LocalStorage.OpenedCategory.TextColor);
+                    this.image.Behaviors.Add(tintColor);
 
                 }
                 else
@@ -223,9 +226,9 @@ namespace ChronoTap.Pages.Elements.Cards
                     this.swipeRightItem.Text = "Run";
                     this.title.TextColor = Colors.Black;
                     this.descr.TextColor = Colors.Black;
-                    //CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
-                    //tintColor.TintColor = Colors.Black;
-                    //this.image.Behaviors.Add(tintColor);
+                    CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
+                    tintColor.TintColor = Colors.Black;
+                    this.image.Behaviors.Add(tintColor);
                 }
 
             }

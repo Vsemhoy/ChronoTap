@@ -2,9 +2,6 @@
 using ChronoTap.Pages.Elements.Cards;
 using ChronoTap.Storage;
 using ChronoTap.Style;
-using ChronoTap.Core;
-using ChronoTap.Storage;
-using ChronoTap.Style;
 using System;
 using System.Collections.Generic;
 using System.Linq;

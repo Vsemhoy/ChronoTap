@@ -18,10 +18,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.3+8456ae5a92571096e0f4a4d65d05b46934a58cff")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChronoTap")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.2")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows10.0.19041.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows10.0.17763.0")]
 

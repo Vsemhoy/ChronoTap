@@ -17,7 +17,7 @@ namespace ChronoTap
             BaseTheme.SetTheme();
             //MainPage = new MainPage2();
             //MainPage = new NavigationPage( PageManager.MainPage);
-            MainPage = new RootShell();
+            MainPage =  new RootShell();
 
             //PageManager.MainPage.categoryStack.SetActiveCard();
             //PageManager.MainPage.SetActiveCard();

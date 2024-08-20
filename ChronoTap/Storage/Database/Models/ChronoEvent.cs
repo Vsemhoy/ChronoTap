@@ -1,5 +1,5 @@
 ﻿using ChronoTap.Core.Utils;
-using ChronoTap.Core.Utils;
+
 using Microsoft.Extensions.Logging.Abstractions;
 using SQLite;
 using System;
@@ -14,8 +14,9 @@ namespace ChronoTap.Storage.Database.Models
     {
         [PrimaryKey, Unique, NotNull]
         public string Id { get; set; }
-
-        [MaxLength(2000)]
+        [MaxLength(220)]
+        public string? Result { get; set; }
+        [MaxLength(2200)]
         public string? Description { get; set; }
         [MaxLength(64)]
         public string TypeId { get; set; }
