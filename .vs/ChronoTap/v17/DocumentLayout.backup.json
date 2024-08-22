@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\chronotap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\chronotap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\com\\storypage\\storypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\com\\storypage\\storypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\elements\\cards\\chronostory_minicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\elements\\cards\\chronostory_minicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\core\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\elements\\modals\\eventeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\elements\\cards\\chronostory_minicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\elements\\cards\\chronostory_minicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\com\\mainpage\\typebrowserincategorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\com\\mainpage\\typebrowserincategorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\elements\\cards\\typestackcard_in_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\elements\\cards\\categoryminicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\elements\\modals\\typeeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\elements\\modals\\typeeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\pages\\com\\mainpage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|solutionrelative:chronotap\\pages\\com\\mainpage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3787B97-0D35-448D-BFFF-425F577C5FF8}|ChronoTap\\ChronoTap.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronotap\\chronotap\\storage\\database\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,37 +80,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 267,
-          "SelectedChildIndex": 11,
+          "DockedWidth": 288,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{21457f7c-a428-477e-ae6d-e2b608734650}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChronoStory_miniCard.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
-              "RelativeDocumentMoniker": "ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
-              "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
+              "RelativeDocumentMoniker": "ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
+              "RelativeToolTip": "ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T22:03:17.074Z",
+              "WhenOpened": "2024-08-18T21:43:11.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EventEditorModal.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Modals\\EventEditorModal.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Pages\\Elements\\Modals\\EventEditorModal.cs",
@@ -126,12 +106,11 @@
               "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Modals\\EventEditorModal.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAMwCwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:43:58.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T21:43:58.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "TypeEditorModal.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Modals\\TypeEditorModal.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Pages\\Elements\\Modals\\TypeEditorModal.cs",
@@ -143,20 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StoryPage.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
-              "RelativeDocumentMoniker": "ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
-              "RelativeToolTip": "ChronoTap\\Pages\\Com\\StoryPage\\StoryPage.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAADcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:43:11.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TypeBrowserInCategoryPage.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
@@ -164,8 +130,7 @@
               "RelativeToolTip": "ChronoTap\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:42:56.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T21:42:56.075Z"
             },
             {
               "$type": "Document",
@@ -177,8 +142,7 @@
               "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Cards\\CategoryMiniCard.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwDkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:53:59.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T20:53:59.445Z"
             },
             {
               "$type": "Document",
@@ -190,7 +154,19 @@
               "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Cards\\ActiveActionMiniCard.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwEEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:42:11.561Z",
+              "WhenOpened": "2024-08-19T20:42:11.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChronoStory_miniCard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
+              "RelativeDocumentMoniker": "ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
+              "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Cards\\ChronoStory_miniCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:03:17.074Z",
               "EditorCaption": ""
             },
             {
@@ -203,38 +179,24 @@
               "RelativeToolTip": "ChronoTap\\Pages\\Elements\\Cards\\TypeStackCard_in_Category.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAJIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:49:43.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T20:49:43.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChronoTap.csproj",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\ChronoTap.csproj",
-              "RelativeDocumentMoniker": "ChronoTap\\ChronoTap.csproj",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\ChronoTap.csproj",
-              "RelativeToolTip": "ChronoTap\\ChronoTap.csproj",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAIoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-17T23:13:11.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RootShell.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Root\\RootShell.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Pages\\Root\\RootShell.cs",
               "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Root\\RootShell.cs",
               "RelativeToolTip": "ChronoTap\\Pages\\Root\\RootShell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T19:44:02.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "IconPickerModal.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Elements\\Modals\\IconPickerModal.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Pages\\Elements\\Modals\\IconPickerModal.cs",
@@ -247,18 +209,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\MainPage\\MainPage.cs",
-              "RelativeDocumentMoniker": "ChronoTap\\Pages\\Com\\MainPage\\MainPage.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Pages\\Com\\MainPage\\MainPage.cs",
-              "RelativeToolTip": "ChronoTap\\Pages\\Com\\MainPage\\MainPage.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:42:10.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "PageManager.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Core\\PageManager.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Core\\PageManager.cs",
@@ -270,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "EventCategory.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\Database\\Models\\EventCategory.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Storage\\Database\\Models\\EventCategory.cs",
@@ -282,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "passwords.txt",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\passwords.txt",
               "RelativeDocumentMoniker": "ChronoTap\\Storage\\passwords.txt",
@@ -294,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\vsemh\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
@@ -305,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\Database\\DatabaseService.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Storage\\Database\\DatabaseService.cs",
@@ -318,16 +268,12 @@
           ]
         },
         {
-          "DockedWidth": 267,
+          "DockedWidth": 246,
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ModalManager.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Core\\ModalManager.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Core\\ModalManager.cs",
@@ -340,20 +286,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ChronoEvent.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\Database\\Models\\ChronoEvent.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Storage\\Database\\Models\\ChronoEvent.cs",
               "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\Database\\Models\\ChronoEvent.cs",
               "RelativeToolTip": "ChronoTap\\Storage\\Database\\Models\\ChronoEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwIEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T20:37:25.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "EventType.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoTap\\ChronoTap\\Storage\\Database\\Models\\EventType.cs",
               "RelativeDocumentMoniker": "ChronoTap\\Storage\\Database\\Models\\EventType.cs",

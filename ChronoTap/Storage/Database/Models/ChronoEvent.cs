@@ -123,6 +123,13 @@ namespace ChronoTap.Storage.Database.Models
             return await DatabaseService.DB.Table<ChronoEvent>().OrderByDescending(x => x.StartAt).ToListAsync();
         }
 
+
+        public static async Task<List<ChronoEvent>> GetActiveItemsAsync(DateTime future, DateTime past)
+        {
+            return await DatabaseService.DB.Table<ChronoEvent>().Where(i => i.StartAt < future).Where(i => i.StartAt > past).OrderByDescending(x => x.StartAt).ToListAsync();
+        }
+
+
         /// <summary>
         /// GEt collection of items filtered by category ID
         /// </summary>
