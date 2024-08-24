@@ -126,7 +126,31 @@ namespace ChronoTap.Storage.Database.Models
 
         public static async Task<List<ChronoEvent>> GetActiveItemsAsync(DateTime future, DateTime past)
         {
-            return await DatabaseService.DB.Table<ChronoEvent>().Where(i => i.StartAt < future).Where(i => i.StartAt > past).OrderByDescending(x => x.StartAt).ToListAsync();
+            DateTime date1 = new DateTime();
+            DateTime date2 = new DateTime();
+            if (DateTime.Compare(future, past) > 0)
+            {
+                // future don't bigger than past date
+                date2 = past;
+                date1 = future;
+            }
+            else
+            {
+                date1 = past;
+                date2 = future;
+            }
+            date1 = date1.ToUniversalTime();
+            date2 = date2.ToUniversalTime();
+            //return await DatabaseService.DB.Table<ChronoEvent>()
+            //    .Where(i => i.StartAt > date2)
+            //    .Where(i => i.StartAt < date1)
+            //    .OrderByDescending(x => x.StartAt).ToListAsync();
+            return await DatabaseService.DB.Table<ChronoEvent>()
+                .Where(i => (i.StartAt >= date1 && i.StartAt <= date2) ||  // StartAt is within the range
+                            (i.EndAt >= date1 && i.EndAt <= date2) ||      // EndAt is within the range
+                            (i.StartAt <= date1 && i.EndAt >= date2))      // The event spans across the entire range
+                .OrderByDescending(x => x.StartAt)
+                .ToListAsync();
         }
 
 

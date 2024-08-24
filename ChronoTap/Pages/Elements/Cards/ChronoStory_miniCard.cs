@@ -30,6 +30,15 @@ namespace ChronoTap.Pages.Elements.Cards
             var typ = LocalStorage.AllTypes.Where(i => i.Id == item.TypeId).Single();
             this.sourceEventType = typ;
 
+            if (!PageManager.StoryPage.categoryList.Contains(cat))
+            {
+                PageManager.StoryPage.categoryList.Add(cat);
+            }
+            if (!PageManager.StoryPage.typeList.Contains(typ))
+            {
+                PageManager.StoryPage.typeList.Add(typ);
+            }
+
             var bgColor = Microsoft.Maui.Graphics.Color.FromHex(cat.BgColor);
             var textColor = Microsoft.Maui.Graphics.Color.FromHex(cat.TextColor);
 

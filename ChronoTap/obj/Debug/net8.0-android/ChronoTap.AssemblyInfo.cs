@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.3+4f46ad5977efbbeb8363538599610c3d26c40c0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.3+55d50c4579dfa48a0539f8111f774a89a13be0df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.2")]
