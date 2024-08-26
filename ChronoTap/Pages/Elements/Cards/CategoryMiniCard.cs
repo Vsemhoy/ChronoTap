@@ -1,8 +1,7 @@
 ﻿using ChronoTap.Core;
 using ChronoTap.Storage.Database.Models;
 using ChronoTap.Style;
-using ChronoTap.Storage.Database.Models;
-using ChronoTap.Style;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;

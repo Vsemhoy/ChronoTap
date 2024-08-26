@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ChronoTap.Pages.Root;
 using ChronoTap.Pages.Com.MainPage;
 using ChronoTap.Pages.Com.StoryPage;
+using ChronoTap.Pages.Com.ChartPage;
 
 
 namespace ChronoTap.Core
@@ -21,7 +22,7 @@ namespace ChronoTap.Core
 
         public static StoryPage StoryPage = new StoryPage();
 
-
+        public static ChartPage ChartPage = new ChartPage();
 
         // All other pages can be initialized before call it within RootShell
         public static Shell RootShell = new RootShell();

@@ -1,7 +1,11 @@
 ﻿//using CommunityToolkit.Maui;
 using CommunityToolkit.Maui;
 using CommunityToolkit.Maui.Core;
+using Microcharts.Maui;
 using Microsoft.Extensions.Logging;
+
+using SkiaSharp.Views.Maui.Controls.Hosting;
+
 
 namespace ChronoTap
 {
@@ -13,7 +17,9 @@ namespace ChronoTap
             builder
                 .UseMauiApp<App>()
                 .UseMauiCommunityToolkitCore()
-                .UseMauiCommunityToolkit() 
+                .UseMauiCommunityToolkit()
+                .UseSkiaSharp()
+                .UseMicrocharts()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");

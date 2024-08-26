@@ -47,7 +47,12 @@ namespace ChronoTap.Pages.Root
             tabBar.Items.Add(this.StoryPage);
 
 
-
+            this.StoryPage = new ShellContent();
+            this.StoryPage.Content = PageManager.ChartPage;
+            this.StoryPage.Title = "Chart";
+            this.StoryPage.Icon = "pie_chart.png";
+            this.StoryPage.FlyoutItemIsVisible = false;
+            tabBar.Items.Add(this.StoryPage);
 
 
             this.CurrentItem = this.MainShellPage;

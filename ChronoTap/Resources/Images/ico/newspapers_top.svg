@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244.77 199.49">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: .16;
+      }
+
+      .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        opacity: .4;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m17.45,0v199.49h227.32V0H17.45Zm70.55,182.66h-54.93v-9.94h54.93v9.94h0Zm.04-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-18.37h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm70.55,103.9h-54.93v-9.94h54.93v9.94Zm.04-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.75h-54.93v-44.4h54.93v44.4Zm69.85,69.44h-54.93v-9.94h54.93v9.94Zm.04-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.23h-54.93v-9.94h54.93v9.94Zm0-17.75h-54.93v-44.4h54.93v44.4Zm0-58.4H33.82V15.61h194.7v38.59h0Z"/>
+  <rect class="cls-2" x="103.68" y="68.19" width="54.93" height="44.4"/>
+  <rect class="cls-2" x="173.56" y="68.19" width="54.93" height="44.4"/>
+  <rect class="cls-2" x="33.8" y="15.61" width="194.7" height="38.59"/>
+  <polygon class="cls-1" points="8.72 24.52 0 24.52 0 199.49 17.45 199.49 17.45 186.01 8.72 186.01 8.72 24.52"/>
+  <rect class="cls-3" x="8.72" y="12.48" width="8.73" height="174.52"/>
+</svg>

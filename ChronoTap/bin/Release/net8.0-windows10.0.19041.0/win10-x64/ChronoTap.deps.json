@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/win10-x64": {
-      "ChronoTap/0.0.3": {
+      "ChronoTap/0.0.4": {
         "dependencies": {
           "CommunityToolkit.Maui": "9.0.2",
           "CommunityToolkit.Maui.Core": "9.0.2",
@@ -529,7 +529,7 @@
     }
   },
   "libraries": {
-    "ChronoTap/0.0.3": {
+    "ChronoTap/0.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

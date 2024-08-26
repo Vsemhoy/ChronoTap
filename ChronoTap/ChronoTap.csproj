@@ -47,42 +47,42 @@
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-android|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-ios|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-maccatalyst|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-windows10.0.19041.0|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-android|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-ios|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-maccatalyst|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0-windows10.0.19041.0|AnyCPU'">
-	  <ApplicationDisplayVersion>0.0.3</ApplicationDisplayVersion>
+	  <ApplicationDisplayVersion>0.0.4</ApplicationDisplayVersion>
 	  <ApplicationId>com.teftele.chronotap</ApplicationId>
 	</PropertyGroup>
 
@@ -107,6 +107,184 @@
 	<ItemGroup>
 	  <None Remove="Resources\Images\clock_history.svg" />
 	  <None Remove="Resources\Images\collection_play_fill.svg" />
+	  <None Remove="Resources\Images\ico\adjustable_wrench.svg" />
+	  <None Remove="Resources\Images\ico\air_ball.svg" />
+	  <None Remove="Resources\Images\ico\arrows_rolled.svg" />
+	  <None Remove="Resources\Images\ico\arrow_camera.svg" />
+	  <None Remove="Resources\Images\ico\arrow_crossed.svg" />
+	  <None Remove="Resources\Images\ico\arrow_infinity.svg" />
+	  <None Remove="Resources\Images\ico\arrow_rolled.svg" />
+	  <None Remove="Resources\Images\ico\arrow_spring.svg" />
+	  <None Remove="Resources\Images\ico\atom_links.svg" />
+	  <None Remove="Resources\Images\ico\baby_todler.svg" />
+	  <None Remove="Resources\Images\ico\bag_case.svg" />
+	  <None Remove="Resources\Images\ico\bag_shopping.svg" />
+	  <None Remove="Resources\Images\ico\bag_travel.svg" />
+	  <None Remove="Resources\Images\ico\beer_mug.svg" />
+	  <None Remove="Resources\Images\ico\bended_sheet.svg" />
+	  <None Remove="Resources\Images\ico\billiard_ball.svg" />
+	  <None Remove="Resources\Images\ico\bird_pigeon.svg" />
+	  <None Remove="Resources\Images\ico\bone.svg" />
+	  <None Remove="Resources\Images\ico\bookmark_down.svg" />
+	  <None Remove="Resources\Images\ico\book_papered.svg" />
+	  <None Remove="Resources\Images\ico\boo_mask.svg" />
+	  <None Remove="Resources\Images\ico\bow_tie.svg" />
+	  <None Remove="Resources\Images\ico\bow_with_arrows.svg" />
+	  <None Remove="Resources\Images\ico\bulb_lamp.svg" />
+	  <None Remove="Resources\Images\ico\bus_stop.svg" />
+	  <None Remove="Resources\Images\ico\butterfly_simple.svg" />
+	  <None Remove="Resources\Images\ico\calendar_list.svg" />
+	  <None Remove="Resources\Images\ico\camera_arrow.svg" />
+	  <None Remove="Resources\Images\ico\card_arrow_down.svg" />
+	  <None Remove="Resources\Images\ico\car_jeep.svg" />
+	  <None Remove="Resources\Images\ico\chart_bars.svg" />
+	  <None Remove="Resources\Images\ico\chart_graphic.svg" />
+	  <None Remove="Resources\Images\ico\chat_empty.svg" />
+	  <None Remove="Resources\Images\ico\chat_filled.svg" />
+	  <None Remove="Resources\Images\ico\chat_zzz.svg" />
+	  <None Remove="Resources\Images\ico\checkbox_checked.svg" />
+	  <None Remove="Resources\Images\ico\chemical_flask.svg" />
+	  <None Remove="Resources\Images\ico\chemical_tube.svg" />
+	  <None Remove="Resources\Images\ico\chicken_leg.svg" />
+	  <None Remove="Resources\Images\ico\city_building.svg" />
+	  <None Remove="Resources\Images\ico\clock_round.svg" />
+	  <None Remove="Resources\Images\ico\clothes_hanger.svg" />
+	  <None Remove="Resources\Images\ico\cloud_in_arrow.svg" />
+	  <None Remove="Resources\Images\ico\cloud_thunder.svg" />
+	  <None Remove="Resources\Images\ico\coffee_cup.svg" />
+	  <None Remove="Resources\Images\ico\coffer_arrowin.svg" />
+	  <None Remove="Resources\Images\ico\coffer_docs.svg" />
+	  <None Remove="Resources\Images\ico\cog_double.svg" />
+	  <None Remove="Resources\Images\ico\cog_single.svg" />
+	  <None Remove="Resources\Images\ico\console_joystick.svg" />
+	  <None Remove="Resources\Images\ico\cup_hot.svg" />
+	  <None Remove="Resources\Images\ico\dice.svg" />
+	  <None Remove="Resources\Images\ico\dog_house.svg" />
+	  <None Remove="Resources\Images\ico\dress_sock.svg" />
+	  <None Remove="Resources\Images\ico\dress_tshirt.svg" />
+	  <None Remove="Resources\Images\ico\dumbell.svg" />
+	  <None Remove="Resources\Images\ico\eye_opened.svg" />
+	  <None Remove="Resources\Images\ico\faders.svg" />
+	  <None Remove="Resources\Images\ico\farm_tractor.svg" />
+	  <None Remove="Resources\Images\ico\file_cabinet.svg" />
+	  <None Remove="Resources\Images\ico\film_babine.svg" />
+	  <None Remove="Resources\Images\ico\film_cassete.svg" />
+	  <None Remove="Resources\Images\ico\film_doublecut.svg" />
+	  <None Remove="Resources\Images\ico\film_triple_cut.svg" />
+	  <None Remove="Resources\Images\ico\film_tub.svg" />
+	  <None Remove="Resources\Images\ico\fire_extinguisher.svg" />
+	  <None Remove="Resources\Images\ico\flag_down.svg" />
+	  <None Remove="Resources\Images\ico\flask_bulb.svg" />
+	  <None Remove="Resources\Images\ico\flyer_double.svg" />
+	  <None Remove="Resources\Images\ico\flyer_single.svg" />
+	  <None Remove="Resources\Images\ico\fork_knife.svg" />
+	  <None Remove="Resources\Images\ico\fortress_tower.svg" />
+	  <None Remove="Resources\Images\ico\furniture_nightstand.svg" />
+	  <None Remove="Resources\Images\ico\gas_station.svg" />
+	  <None Remove="Resources\Images\ico\gift_box.svg" />
+	  <None Remove="Resources\Images\ico\glasses_closed.svg" />
+	  <None Remove="Resources\Images\ico\glasses_rounded.svg" />
+	  <None Remove="Resources\Images\ico\glasses_square.svg" />
+	  <None Remove="Resources\Images\ico\goblet_pot.svg" />
+	  <None Remove="Resources\Images\ico\golf_flag.svg" />
+	  <None Remove="Resources\Images\ico\grocery_cart.svg" />
+	  <None Remove="Resources\Images\ico\hammer_mallet.svg" />
+	  <None Remove="Resources\Images\ico\headphones.svg" />
+	  <None Remove="Resources\Images\ico\heartbeat_sinus.svg" />
+	  <None Remove="Resources\Images\ico\horn_speaker.svg" />
+	  <None Remove="Resources\Images\ico\house_door.svg" />
+	  <None Remove="Resources\Images\ico\house_onwheel.svg" />
+	  <None Remove="Resources\Images\ico\house_wooden.svg" />
+	  <None Remove="Resources\Images\ico\human_group.svg" />
+	  <None Remove="Resources\Images\ico\ice_cream.svg" />
+	  <None Remove="Resources\Images\ico\insect_bug.svg" />
+	  <None Remove="Resources\Images\ico\ipod_player.svg" />
+	  <None Remove="Resources\Images\ico\jasons_mask.svg" />
+	  <None Remove="Resources\Images\ico\key_single.svg" />
+	  <None Remove="Resources\Images\ico\laptop_mac.svg" />
+	  <None Remove="Resources\Images\ico\lifebuoy.svg" />
+	  <None Remove="Resources\Images\ico\lock_locked.svg" />
+	  <None Remove="Resources\Images\ico\mail_letter.svg" />
+	  <None Remove="Resources\Images\ico\man_running_single.svg" />
+	  <None Remove="Resources\Images\ico\man_walking.svg" />
+	  <None Remove="Resources\Images\ico\map_mark.svg" />
+	  <None Remove="Resources\Images\ico\map_path.svg" />
+	  <None Remove="Resources\Images\ico\map_pin.svg" />
+	  <None Remove="Resources\Images\ico\meal_fastfood.svg" />
+	  <None Remove="Resources\Images\ico\medal_star.svg" />
+	  <None Remove="Resources\Images\ico\medical_case.svg" />
+	  <None Remove="Resources\Images\ico\medical_patch.svg" />
+	  <None Remove="Resources\Images\ico\medical_plus.svg" />
+	  <None Remove="Resources\Images\ico\microphone_ontable.svg" />
+	  <None Remove="Resources\Images\ico\mill_house.svg" />
+	  <None Remove="Resources\Images\ico\mixer_faders.svg" />
+	  <None Remove="Resources\Images\ico\moon_half.svg" />
+	  <None Remove="Resources\Images\ico\newspapers.svg" />
+	  <None Remove="Resources\Images\ico\newspapers_top.svg" />
+	  <None Remove="Resources\Images\ico\note_page.svg" />
+	  <None Remove="Resources\Images\ico\palette.svg" />
+	  <None Remove="Resources\Images\ico\paperclip.svg" />
+	  <None Remove="Resources\Images\ico\path_navigation.svg" />
+	  <None Remove="Resources\Images\ico\paw_print.svg" />
+	  <None Remove="Resources\Images\ico\pc_display.svg" />
+	  <None Remove="Resources\Images\ico\pc_display2.svg" />
+	  <None Remove="Resources\Images\ico\pc_display_wide.svg" />
+	  <None Remove="Resources\Images\ico\phone_handset.svg" />
+	  <None Remove="Resources\Images\ico\phone_smart.svg" />
+	  <None Remove="Resources\Images\ico\photo_camera.svg" />
+	  <None Remove="Resources\Images\ico\piano_keys.svg" />
+	  <None Remove="Resources\Images\ico\picture_hanged.svg" />
+	  <None Remove="Resources\Images\ico\piggy_bank.svg" />
+	  <None Remove="Resources\Images\ico\pill_capsule.svg" />
+	  <None Remove="Resources\Images\ico\pipette.svg" />
+	  <None Remove="Resources\Images\ico\planet_jupiter.svg" />
+	  <None Remove="Resources\Images\ico\plane_flight.svg" />
+	  <None Remove="Resources\Images\ico\price_tag_shortcut.svg" />
+	  <None Remove="Resources\Images\ico\puzzle_chunk.svg" />
+	  <None Remove="Resources\Images\ico\rechargeble_battery.svg" />
+	  <None Remove="Resources\Images\ico\roadsign_arrow.svg" />
+	  <None Remove="Resources\Images\ico\round_blacknwhite.svg" />
+	  <None Remove="Resources\Images\ico\round_compas.svg" />
+	  <None Remove="Resources\Images\ico\sailboat.svg" />
+	  <None Remove="Resources\Images\ico\scheme_path.svg" />
+	  <None Remove="Resources\Images\ico\sealed_flask.svg" />
+	  <None Remove="Resources\Images\ico\search_lens.svg" />
+	  <None Remove="Resources\Images\ico\sega_joystick.svg" />
+	  <None Remove="Resources\Images\ico\shape_heart.svg" />
+	  <None Remove="Resources\Images\ico\shape_star.svg" />
+	  <None Remove="Resources\Images\ico\shoots_polaroid.svg" />
+	  <None Remove="Resources\Images\ico\shot_glass.svg" />
+	  <None Remove="Resources\Images\ico\simple_calculator.svg" />
+	  <None Remove="Resources\Images\ico\skull_bones.svg" />
+	  <None Remove="Resources\Images\ico\skull_only.svg" />
+	  <None Remove="Resources\Images\ico\socket_outlet.svg" />
+	  <None Remove="Resources\Images\ico\sound_note.svg" />
+	  <None Remove="Resources\Images\ico\speedometer.svg" />
+	  <None Remove="Resources\Images\ico\statue_liberty.svg" />
+	  <None Remove="Resources\Images\ico\stopwatch.svg" />
+	  <None Remove="Resources\Images\ico\sun_dni.svg" />
+	  <None Remove="Resources\Images\ico\sun_star.svg" />
+	  <None Remove="Resources\Images\ico\tablet_pc.svg" />
+	  <None Remove="Resources\Images\ico\tag_man_mark.svg" />
+	  <None Remove="Resources\Images\ico\tall_buildings.svg" />
+	  <None Remove="Resources\Images\ico\target_aim.svg" />
+	  <None Remove="Resources\Images\ico\target_darts.svg" />
+	  <None Remove="Resources\Images\ico\target_darts_goal.svg" />
+	  <None Remove="Resources\Images\ico\telescope.svg" />
+	  <None Remove="Resources\Images\ico\thunder.svg" />
+	  <None Remove="Resources\Images\ico\ticket.svg" />
+	  <None Remove="Resources\Images\ico\tie_dress.svg" />
+	  <None Remove="Resources\Images\ico\tree_fir.svg" />
+	  <None Remove="Resources\Images\ico\tv_set.svg" />
+	  <None Remove="Resources\Images\ico\ufo.svg" />
+	  <None Remove="Resources\Images\ico\ukulele_guitar.svg" />
+	  <None Remove="Resources\Images\ico\umbrella.svg" />
+	  <None Remove="Resources\Images\ico\user_card.svg" />
+	  <None Remove="Resources\Images\ico\viking_hemlet.svg" />
+	  <None Remove="Resources\Images\ico\wall_picture.svg" />
+	  <None Remove="Resources\Images\ico\way_signs.svg" />
+	  <None Remove="Resources\Images\ico\wrench_tool.svg" />
+	  <None Remove="Resources\Images\pie_chart.svg" />
 	  <None Remove="Resources\Images\play_fill.svg" />
 	  <None Remove="Resources\Images\plus.svg" />
 	  <None Remove="Resources\Images\plus_circle.svg" />
@@ -123,6 +301,7 @@
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Maui" Version="9.0.2" />
 		<PackageReference Include="CommunityToolkit.Maui.Core" Version="9.0.2" />
+		<PackageReference Include="Microcharts.Maui" Version="1.0.0" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
