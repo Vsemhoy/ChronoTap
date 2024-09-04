@@ -888,3 +888,6 @@ C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\adjustable_wrench@3x.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\adjustable_wrench@2x.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\adjustable_wrench.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\pie_chart@3x.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\pie_chart@2x.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-ios\iossimulator-x64\resizetizer\r\pie_chart.png

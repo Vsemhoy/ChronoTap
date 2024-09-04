@@ -22,7 +22,7 @@ namespace ChronoTap.Core
 
         public static StoryPage StoryPage = new StoryPage();
 
-        public static ChartPage ChartPage = new ChartPage();
+        //public static ChartPage ChartPage = new ChartPage();
 
         // All other pages can be initialized before call it within RootShell
         public static Shell RootShell = new RootShell();

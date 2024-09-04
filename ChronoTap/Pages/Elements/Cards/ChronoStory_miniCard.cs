@@ -42,7 +42,7 @@ namespace ChronoTap.Pages.Elements.Cards
             var bgColor = Microsoft.Maui.Graphics.Color.FromHex(cat.BgColor);
             var textColor = Microsoft.Maui.Graphics.Color.FromHex(cat.TextColor);
 
-            this.topGrid.AddColumnDefinition(new ColumnDefinition { Width = 44 });
+            this.topGrid.AddColumnDefinition(new ColumnDefinition { Width = 48 });
             this.topGrid.AddColumnDefinition(new ColumnDefinition { Width = GridLength.Star });
             this.topGrid.AddColumnDefinition(new ColumnDefinition { Width = GridLength.Auto });
             this.topGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
@@ -109,7 +109,9 @@ namespace ChronoTap.Pages.Elements.Cards
             StackLayout iconContainer = new StackLayout();
             Image image = new Image();
             image.Source = "src/" + typ.Icon;
-            image.MaximumHeightRequest = 30;
+            image.MaximumHeightRequest = 40;
+            image.MaximumWidthRequest = 40;
+            image.Margin = 1;
             CommunityToolkit.Maui.Behaviors.IconTintColorBehavior tintColor = new CommunityToolkit.Maui.Behaviors.IconTintColorBehavior();
             tintColor.TintColor = Color.FromHex(cat.TextColor);
             image.Behaviors.Add(tintColor);

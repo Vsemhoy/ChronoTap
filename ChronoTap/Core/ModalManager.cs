@@ -248,5 +248,31 @@ namespace ChronoTap.Core
                 return;
             }
         }
+
+
+
+        public static async Task EventEditorModal_ActionDelete(object? sender, EventArgs e)
+        {
+            var removedItem = LocalStorage.EditedChrono;
+            var id = removedItem.Id;
+
+            var result = await ChronoEvent.DeleteItemAsync(removedItem);
+            if (result > 0)
+            {
+                //await ChronoEvent.DeleteAllActiveItemsFromTypeAsync(id);
+                //await EventType.DeleteAllActiveItemsFromCategoryAsync(id);
+                //LocalStorage.Types = await EventType.GetAllActiveItemsAsync();
+                //LocalStorage.EditedType = null;
+                //typeEditorModal.Hide();
+                LocalStorage.EditedChrono = null;
+                eventEditorModal.Hide();
+                return;
+            }
+            else
+            {
+                eventEditorModal.Alert("Error", "Can't remove this, something wrong :(");
+                return;
+            }
+        }
     }
 }

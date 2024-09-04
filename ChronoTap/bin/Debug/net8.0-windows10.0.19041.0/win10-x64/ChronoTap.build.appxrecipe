@@ -61,6 +61,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adjustable_wrench.scale-100.png">
+      <PackagePath>adjustable_wrench.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adjustable_wrench.scale-125.png">
+      <PackagePath>adjustable_wrench.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adjustable_wrench.scale-150.png">
+      <PackagePath>adjustable_wrench.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adjustable_wrench.scale-200.png">
+      <PackagePath>adjustable_wrench.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adjustable_wrench.scale-400.png">
+      <PackagePath>adjustable_wrench.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\air_ball.scale-100.png">
       <PackagePath>air_ball.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -229,6 +244,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrows_rolled.scale-400.png">
       <PackagePath>arrows_rolled.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_camera.scale-100.png">
+      <PackagePath>arrow_camera.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_camera.scale-125.png">
+      <PackagePath>arrow_camera.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_camera.scale-150.png">
+      <PackagePath>arrow_camera.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_camera.scale-200.png">
+      <PackagePath>arrow_camera.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_camera.scale-400.png">
+      <PackagePath>arrow_camera.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\arrow_crossed.scale-100.png">
       <PackagePath>arrow_crossed.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -379,6 +409,36 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beer_mug.scale-400.png">
       <PackagePath>beer_mug.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bended_sheet.scale-100.png">
+      <PackagePath>bended_sheet.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bended_sheet.scale-125.png">
+      <PackagePath>bended_sheet.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bended_sheet.scale-150.png">
+      <PackagePath>bended_sheet.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bended_sheet.scale-200.png">
+      <PackagePath>bended_sheet.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bended_sheet.scale-400.png">
+      <PackagePath>bended_sheet.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\billiard_ball.scale-100.png">
+      <PackagePath>billiard_ball.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\billiard_ball.scale-125.png">
+      <PackagePath>billiard_ball.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\billiard_ball.scale-150.png">
+      <PackagePath>billiard_ball.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\billiard_ball.scale-200.png">
+      <PackagePath>billiard_ball.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\billiard_ball.scale-400.png">
+      <PackagePath>billiard_ball.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bird_pigeon.scale-100.png">
       <PackagePath>bird_pigeon.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -454,6 +514,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\boo_mask.scale-400.png">
       <PackagePath>boo_mask.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_tie.scale-100.png">
+      <PackagePath>bow_tie.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_tie.scale-125.png">
+      <PackagePath>bow_tie.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_tie.scale-150.png">
+      <PackagePath>bow_tie.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_tie.scale-200.png">
+      <PackagePath>bow_tie.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_tie.scale-400.png">
+      <PackagePath>bow_tie.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bow_with_arrows.scale-100.png">
       <PackagePath>bow_with_arrows.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -499,6 +574,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bus_stop.scale-400.png">
       <PackagePath>bus_stop.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\butterfly_simple.scale-100.png">
+      <PackagePath>butterfly_simple.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\butterfly_simple.scale-125.png">
+      <PackagePath>butterfly_simple.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\butterfly_simple.scale-150.png">
+      <PackagePath>butterfly_simple.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\butterfly_simple.scale-200.png">
+      <PackagePath>butterfly_simple.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\butterfly_simple.scale-400.png">
+      <PackagePath>butterfly_simple.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar_list.scale-100.png">
       <PackagePath>calendar_list.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -513,6 +603,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar_list.scale-400.png">
       <PackagePath>calendar_list.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_arrow.scale-100.png">
+      <PackagePath>camera_arrow.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_arrow.scale-125.png">
+      <PackagePath>camera_arrow.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_arrow.scale-150.png">
+      <PackagePath>camera_arrow.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_arrow.scale-200.png">
+      <PackagePath>camera_arrow.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_arrow.scale-400.png">
+      <PackagePath>camera_arrow.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\card_arrow_down.scale-100.png">
       <PackagePath>card_arrow_down.scale-100.png</PackagePath>
@@ -678,6 +783,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chicken_leg.scale-400.png">
       <PackagePath>chicken_leg.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\city_building.scale-100.png">
+      <PackagePath>city_building.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\city_building.scale-125.png">
+      <PackagePath>city_building.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\city_building.scale-150.png">
+      <PackagePath>city_building.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\city_building.scale-200.png">
+      <PackagePath>city_building.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\city_building.scale-400.png">
+      <PackagePath>city_building.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\clock_history.scale-100.png">
       <PackagePath>clock_history.scale-100.png</PackagePath>
@@ -889,6 +1009,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dice.scale-400.png">
       <PackagePath>dice.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dog_house.scale-100.png">
+      <PackagePath>dog_house.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dog_house.scale-125.png">
+      <PackagePath>dog_house.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dog_house.scale-150.png">
+      <PackagePath>dog_house.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dog_house.scale-200.png">
+      <PackagePath>dog_house.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dog_house.scale-400.png">
+      <PackagePath>dog_house.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -993,6 +1128,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\farm_tractor.scale-400.png">
       <PackagePath>farm_tractor.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\file_cabinet.scale-100.png">
+      <PackagePath>file_cabinet.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\file_cabinet.scale-125.png">
+      <PackagePath>file_cabinet.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\file_cabinet.scale-150.png">
+      <PackagePath>file_cabinet.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\file_cabinet.scale-200.png">
+      <PackagePath>file_cabinet.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\file_cabinet.scale-400.png">
+      <PackagePath>file_cabinet.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_babine.scale-100.png">
+      <PackagePath>film_babine.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_babine.scale-125.png">
+      <PackagePath>film_babine.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_babine.scale-150.png">
+      <PackagePath>film_babine.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_babine.scale-200.png">
+      <PackagePath>film_babine.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_babine.scale-400.png">
+      <PackagePath>film_babine.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_cassete.scale-100.png">
+      <PackagePath>film_cassete.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_cassete.scale-125.png">
+      <PackagePath>film_cassete.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_cassete.scale-150.png">
+      <PackagePath>film_cassete.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_cassete.scale-200.png">
+      <PackagePath>film_cassete.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_cassete.scale-400.png">
+      <PackagePath>film_cassete.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\film_doublecut.scale-100.png">
       <PackagePath>film_doublecut.scale-100.png</PackagePath>
@@ -1189,6 +1369,51 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gift_box.scale-400.png">
       <PackagePath>gift_box.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_closed.scale-100.png">
+      <PackagePath>glasses_closed.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_closed.scale-125.png">
+      <PackagePath>glasses_closed.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_closed.scale-150.png">
+      <PackagePath>glasses_closed.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_closed.scale-200.png">
+      <PackagePath>glasses_closed.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_closed.scale-400.png">
+      <PackagePath>glasses_closed.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_rounded.scale-100.png">
+      <PackagePath>glasses_rounded.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_rounded.scale-125.png">
+      <PackagePath>glasses_rounded.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_rounded.scale-150.png">
+      <PackagePath>glasses_rounded.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_rounded.scale-200.png">
+      <PackagePath>glasses_rounded.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_rounded.scale-400.png">
+      <PackagePath>glasses_rounded.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_square.scale-100.png">
+      <PackagePath>glasses_square.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_square.scale-125.png">
+      <PackagePath>glasses_square.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_square.scale-150.png">
+      <PackagePath>glasses_square.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_square.scale-200.png">
+      <PackagePath>glasses_square.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\glasses_square.scale-400.png">
+      <PackagePath>glasses_square.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\goblet_pot.scale-100.png">
       <PackagePath>goblet_pot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -1233,6 +1458,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\grocery_cart.scale-400.png">
       <PackagePath>grocery_cart.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hammer_mallet.scale-100.png">
+      <PackagePath>hammer_mallet.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hammer_mallet.scale-125.png">
+      <PackagePath>hammer_mallet.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hammer_mallet.scale-150.png">
+      <PackagePath>hammer_mallet.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hammer_mallet.scale-200.png">
+      <PackagePath>hammer_mallet.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hammer_mallet.scale-400.png">
+      <PackagePath>hammer_mallet.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\headphones.scale-100.png">
       <PackagePath>headphones.scale-100.png</PackagePath>
@@ -1339,6 +1579,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\human_group.scale-400.png">
       <PackagePath>human_group.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ice_cream.scale-100.png">
+      <PackagePath>ice_cream.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ice_cream.scale-125.png">
+      <PackagePath>ice_cream.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ice_cream.scale-150.png">
+      <PackagePath>ice_cream.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ice_cream.scale-200.png">
+      <PackagePath>ice_cream.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ice_cream.scale-400.png">
+      <PackagePath>ice_cream.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\insect_bug.scale-100.png">
       <PackagePath>insect_bug.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -1398,6 +1653,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\key_single.scale-400.png">
       <PackagePath>key_single.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\laptop_mac.scale-100.png">
+      <PackagePath>laptop_mac.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\laptop_mac.scale-125.png">
+      <PackagePath>laptop_mac.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\laptop_mac.scale-150.png">
+      <PackagePath>laptop_mac.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\laptop_mac.scale-200.png">
+      <PackagePath>laptop_mac.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\laptop_mac.scale-400.png">
+      <PackagePath>laptop_mac.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lifebuoy.scale-100.png">
       <PackagePath>lifebuoy.scale-100.png</PackagePath>
@@ -1609,6 +1879,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\microphone_ontable.scale-400.png">
       <PackagePath>microphone_ontable.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mill_house.scale-100.png">
+      <PackagePath>mill_house.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mill_house.scale-125.png">
+      <PackagePath>mill_house.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mill_house.scale-150.png">
+      <PackagePath>mill_house.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mill_house.scale-200.png">
+      <PackagePath>mill_house.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mill_house.scale-400.png">
+      <PackagePath>mill_house.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\mixer_faders.scale-100.png">
       <PackagePath>mixer_faders.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -1653,6 +1938,36 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers.scale-400.png">
       <PackagePath>newspapers.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers_top.scale-100.png">
+      <PackagePath>newspapers_top.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers_top.scale-125.png">
+      <PackagePath>newspapers_top.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers_top.scale-150.png">
+      <PackagePath>newspapers_top.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers_top.scale-200.png">
+      <PackagePath>newspapers_top.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\newspapers_top.scale-400.png">
+      <PackagePath>newspapers_top.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\note_page.scale-100.png">
+      <PackagePath>note_page.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\note_page.scale-125.png">
+      <PackagePath>note_page.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\note_page.scale-150.png">
+      <PackagePath>note_page.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\note_page.scale-200.png">
+      <PackagePath>note_page.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\note_page.scale-400.png">
+      <PackagePath>note_page.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\palette.scale-100.png">
       <PackagePath>palette.scale-100.png</PackagePath>
@@ -1744,6 +2059,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display2.scale-400.png">
       <PackagePath>pc_display2.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display_wide.scale-100.png">
+      <PackagePath>pc_display_wide.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display_wide.scale-125.png">
+      <PackagePath>pc_display_wide.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display_wide.scale-150.png">
+      <PackagePath>pc_display_wide.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display_wide.scale-200.png">
+      <PackagePath>pc_display_wide.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pc_display_wide.scale-400.png">
+      <PackagePath>pc_display_wide.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\phone_handset.scale-100.png">
       <PackagePath>phone_handset.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -1819,6 +2149,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\picture_hanged.scale-400.png">
       <PackagePath>picture_hanged.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-100.png">
+      <PackagePath>pie_chart.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-125.png">
+      <PackagePath>pie_chart.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-150.png">
+      <PackagePath>pie_chart.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-200.png">
+      <PackagePath>pie_chart.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-400.png">
+      <PackagePath>pie_chart.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\piggy_bank.scale-100.png">
       <PackagePath>piggy_bank.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -1848,6 +2193,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pill_capsule.scale-400.png">
       <PackagePath>pill_capsule.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pipette.scale-100.png">
+      <PackagePath>pipette.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pipette.scale-125.png">
+      <PackagePath>pipette.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pipette.scale-150.png">
+      <PackagePath>pipette.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pipette.scale-200.png">
+      <PackagePath>pipette.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pipette.scale-400.png">
+      <PackagePath>pipette.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\planet_jupiter.scale-100.png">
       <PackagePath>planet_jupiter.scale-100.png</PackagePath>
@@ -2029,6 +2389,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus_square_fill.scale-400.png">
       <PackagePath>plus_square_fill.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\price_tag_shortcut.scale-100.png">
+      <PackagePath>price_tag_shortcut.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\price_tag_shortcut.scale-125.png">
+      <PackagePath>price_tag_shortcut.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\price_tag_shortcut.scale-150.png">
+      <PackagePath>price_tag_shortcut.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\price_tag_shortcut.scale-200.png">
+      <PackagePath>price_tag_shortcut.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\price_tag_shortcut.scale-400.png">
+      <PackagePath>price_tag_shortcut.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\puzzle_chunk.scale-100.png">
       <PackagePath>puzzle_chunk.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -2104,6 +2479,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\round_compas.scale-400.png">
       <PackagePath>round_compas.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sailboat.scale-100.png">
+      <PackagePath>sailboat.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sailboat.scale-125.png">
+      <PackagePath>sailboat.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sailboat.scale-150.png">
+      <PackagePath>sailboat.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sailboat.scale-200.png">
+      <PackagePath>sailboat.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sailboat.scale-400.png">
+      <PackagePath>sailboat.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\scheme_path.scale-100.png">
       <PackagePath>scheme_path.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -2148,6 +2538,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\search_lens.scale-400.png">
       <PackagePath>search_lens.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sega_joystick.scale-100.png">
+      <PackagePath>sega_joystick.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sega_joystick.scale-125.png">
+      <PackagePath>sega_joystick.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sega_joystick.scale-150.png">
+      <PackagePath>sega_joystick.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sega_joystick.scale-200.png">
+      <PackagePath>sega_joystick.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sega_joystick.scale-400.png">
+      <PackagePath>sega_joystick.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shape_heart.scale-100.png">
       <PackagePath>shape_heart.scale-100.png</PackagePath>
@@ -2208,6 +2613,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shot_glass.scale-400.png">
       <PackagePath>shot_glass.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\simple_calculator.scale-100.png">
+      <PackagePath>simple_calculator.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\simple_calculator.scale-125.png">
+      <PackagePath>simple_calculator.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\simple_calculator.scale-150.png">
+      <PackagePath>simple_calculator.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\simple_calculator.scale-200.png">
+      <PackagePath>simple_calculator.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\simple_calculator.scale-400.png">
+      <PackagePath>simple_calculator.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\skull_bones.scale-100.png">
       <PackagePath>skull_bones.scale-100.png</PackagePath>
@@ -2329,6 +2749,66 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_dni.scale-400.png">
       <PackagePath>sun_dni.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_star.scale-100.png">
+      <PackagePath>sun_star.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_star.scale-125.png">
+      <PackagePath>sun_star.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_star.scale-150.png">
+      <PackagePath>sun_star.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_star.scale-200.png">
+      <PackagePath>sun_star.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun_star.scale-400.png">
+      <PackagePath>sun_star.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tablet_pc.scale-100.png">
+      <PackagePath>tablet_pc.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tablet_pc.scale-125.png">
+      <PackagePath>tablet_pc.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tablet_pc.scale-150.png">
+      <PackagePath>tablet_pc.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tablet_pc.scale-200.png">
+      <PackagePath>tablet_pc.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tablet_pc.scale-400.png">
+      <PackagePath>tablet_pc.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tag_man_mark.scale-100.png">
+      <PackagePath>tag_man_mark.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tag_man_mark.scale-125.png">
+      <PackagePath>tag_man_mark.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tag_man_mark.scale-150.png">
+      <PackagePath>tag_man_mark.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tag_man_mark.scale-200.png">
+      <PackagePath>tag_man_mark.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tag_man_mark.scale-400.png">
+      <PackagePath>tag_man_mark.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tall_buildings.scale-100.png">
+      <PackagePath>tall_buildings.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tall_buildings.scale-125.png">
+      <PackagePath>tall_buildings.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tall_buildings.scale-150.png">
+      <PackagePath>tall_buildings.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tall_buildings.scale-200.png">
+      <PackagePath>tall_buildings.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tall_buildings.scale-400.png">
+      <PackagePath>tall_buildings.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\target_aim.scale-100.png">
       <PackagePath>target_aim.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -2374,6 +2854,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\target_darts_goal.scale-400.png">
       <PackagePath>target_darts_goal.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\telescope.scale-100.png">
+      <PackagePath>telescope.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\telescope.scale-125.png">
+      <PackagePath>telescope.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\telescope.scale-150.png">
+      <PackagePath>telescope.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\telescope.scale-200.png">
+      <PackagePath>telescope.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\telescope.scale-400.png">
+      <PackagePath>telescope.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\thunder.scale-100.png">
       <PackagePath>thunder.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -2388,6 +2883,36 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\thunder.scale-400.png">
       <PackagePath>thunder.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ticket.scale-100.png">
+      <PackagePath>ticket.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ticket.scale-125.png">
+      <PackagePath>ticket.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ticket.scale-150.png">
+      <PackagePath>ticket.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ticket.scale-200.png">
+      <PackagePath>ticket.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ticket.scale-400.png">
+      <PackagePath>ticket.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tie_dress.scale-100.png">
+      <PackagePath>tie_dress.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tie_dress.scale-125.png">
+      <PackagePath>tie_dress.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tie_dress.scale-150.png">
+      <PackagePath>tie_dress.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tie_dress.scale-200.png">
+      <PackagePath>tie_dress.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\tie_dress.scale-400.png">
+      <PackagePath>tie_dress.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\trash.scale-100.png">
       <PackagePath>trash.scale-100.png</PackagePath>
@@ -2448,6 +2973,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ufo.scale-400.png">
       <PackagePath>ufo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ukulele_guitar.scale-100.png">
+      <PackagePath>ukulele_guitar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ukulele_guitar.scale-125.png">
+      <PackagePath>ukulele_guitar.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ukulele_guitar.scale-150.png">
+      <PackagePath>ukulele_guitar.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ukulele_guitar.scale-200.png">
+      <PackagePath>ukulele_guitar.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ukulele_guitar.scale-400.png">
+      <PackagePath>ukulele_guitar.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\umbrella.scale-100.png">
       <PackagePath>umbrella.scale-100.png</PackagePath>
@@ -2524,6 +3064,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\way_signs.scale-400.png">
       <PackagePath>way_signs.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wrench_tool.scale-100.png">
+      <PackagePath>wrench_tool.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wrench_tool.scale-125.png">
+      <PackagePath>wrench_tool.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wrench_tool.scale-150.png">
+      <PackagePath>wrench_tool.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wrench_tool.scale-200.png">
+      <PackagePath>wrench_tool.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\wrench_tool.scale-400.png">
+      <PackagePath>wrench_tool.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoTap.deps.json">
       <PackagePath>ChronoTap.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -2538,6 +3093,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\communitytoolkit.maui.core\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
       <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\microcharts.maui\1.0.0\lib\net6.0-windows10.0.19041\Microcharts.Maui.dll">
+      <PackagePath>Microcharts.Maui.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -2634,6 +3192,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\skiasharp\2.88.3\lib\net6.0\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\skiasharp.views.maui.controls\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\skiasharp.views.maui.core\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Core.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\skiasharp.views.winui\2.88.3\lib\net6.0-windows10.0.19041.0\SkiaSharp.Views.Windows.dll">
+      <PackagePath>SkiaSharp.Views.Windows.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
       <PackagePath>SQLite-net.dll</PackagePath>
@@ -2757,6 +3327,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\skiasharp.nativeassets.win32\2.88.3\runtimes\win-x64\native\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.2\runtimes\win-x64\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>

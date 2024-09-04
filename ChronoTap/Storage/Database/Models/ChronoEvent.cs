@@ -231,6 +231,9 @@ namespace ChronoTap.Storage.Database.Models
                 result = await ChronoEvent.UpdateItemAsync(itoupdate);
             }
             LocalStorage.ActiveChrono = null;
+            // Remove all without duration
+            await DatabaseService.DB.Table<ChronoEvent>().Where(i => i.Duration == 0).DeleteAsync();
+
             return result;
         }
 

@@ -58,14 +58,15 @@ namespace ChronoTap.Pages.Elements.Cards
 
             this.WidthRequest = (DeviceDisplay.Current.MainDisplayInfo.Width / DeviceDisplay.Current.MainDisplayInfo.Density);
             gridRow.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
-            gridRow.ColumnDefinitions.Add(new ColumnDefinition { Width = 40 }); // Icon
+            gridRow.ColumnDefinitions.Add(new ColumnDefinition { Width = 46 }); // Icon
             gridRow.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Star }); // Name
             //gridRow.ColumnDefinitions.Add(new ColumnDefinition {Width = 46}); // Activator
 
             StackLayout iconContainer = new StackLayout();
 
             this.image.Source = "src/" + typeCard.Icon;
-            this.image.HeightRequest = 28;
+            this.image.HeightRequest = 40;
+            this.image.Margin = 2;
             iconContainer.Children.Add(this.image);
             iconContainer.Padding = new Thickness(3);
             iconContainer.VerticalOptions = LayoutOptions.Center;

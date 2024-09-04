@@ -14,10 +14,10 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.4+eb3236f58ede74c727c1a3da666d5b958074df1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.4+647c54049daadcdc79a4eabb5d60dc447b57fe8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChronoTap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChronoTap")]
-[assembly: System.Reflection.AssemblyVersionAttribute("0.0.2")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.0.6")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS17.2")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS11.0")]
 

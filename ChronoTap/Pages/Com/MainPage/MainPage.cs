@@ -9,6 +9,7 @@ using ChronoTap.Style;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -39,7 +40,9 @@ namespace ChronoTap.Pages.Com.MainPage
 
         public MainPage()
         {
-            this.Title = "Super Main page";
+            var assembly = Assembly.GetExecutingAssembly();
+            var version = assembly.GetName().Version;
+            this.Title = "V" + version.ToString();
             this.BackgroundColor = Color.FromHex("#F0F0F3");
 
             this.MainButton.Text = "Hello woof";

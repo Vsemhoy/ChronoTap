@@ -3,10 +3,10 @@ using ChronoTap.Pages.Elements.Cards;
 using ChronoTap.Storage.Database.Models;
 using ChronoTap.Storage;
 
-using Microcharts;
-using SkiaSharp;
-using Microcharts.Maui;
-using SkiaSharp.Views.Maui.Controls;
+//using Microcharts;
+//using SkiaSharp;
+//using Microcharts.Maui;
+//using SkiaSharp.Views.Maui.Controls;
 
 namespace ChronoTap.Pages.Com.ChartPage
 {
@@ -398,47 +398,47 @@ namespace ChronoTap.Pages.Com.ChartPage
 
         public async void DrawChartPie()
         {
-            ChartEntry[] entries = new[]
-            {
-                new ChartEntry(212)
-                {
-                    Label = "Windows",
-                    ValueLabel = "112",
-                    Color = SKColor.Parse("#2c3e50")
-                },
-                new ChartEntry(248)
-                {
-                    Label = "Android",
-                    ValueLabel = "648",
-                    Color = SKColor.Parse("#77d065")
-                },
-                new ChartEntry(128)
-                {
-                    Label = "IOS",
-                    ValueLabel = "482",
-                    Color = SKColor.Parse("#b455b6")
-                },
-                new ChartEntry(514)
-                {
-                    Label = ".NET MAUI",
-                    ValueLabel = "214",
-                    Color = SKColor.Parse("#3498db")
-                },
-            };
+            //ChartEntry[] entries = new[]
+            //{
+            //    new ChartEntry(212)
+            //    {
+            //        Label = "Windows",
+            //        ValueLabel = "112",
+            //        Color = SKColor.Parse("#2c3e50")
+            //    },
+            //    new ChartEntry(248)
+            //    {
+            //        Label = "Android",
+            //        ValueLabel = "648",
+            //        Color = SKColor.Parse("#77d065")
+            //    },
+            //    new ChartEntry(128)
+            //    {
+            //        Label = "IOS",
+            //        ValueLabel = "482",
+            //        Color = SKColor.Parse("#b455b6")
+            //    },
+            //    new ChartEntry(514)
+            //    {
+            //        Label = ".NET MAUI",
+            //        ValueLabel = "214",
+            //        Color = SKColor.Parse("#3498db")
+            //    },
+            //};
 
 
-            var chart = new DonutChart
-            {
-                Entries = entries
-            };
+            //var chart = new DonutChart
+            //{
+            //    Entries = entries
+            //};
 
-            ChartView chavy = new ChartView();
-            chavy.Chart = chart;
-            LinearItemsLayout laty = new LinearItemsLayout(ItemsLayoutOrientation.Vertical);
-            laty.BindingContext = chavy;
-            Frame framy = new Frame();
-            framy.Content = laty;
-            this.itemStack.Children.Add(framy);
+            //ChartView chavy = new ChartView();
+            //chavy.Chart = chart;
+            //LinearItemsLayout laty = new LinearItemsLayout(ItemsLayoutOrientation.Vertical);
+            //laty.BindingContext = chavy;
+            //Frame framy = new Frame();
+            ////framy.Content = laty;
+            //this.itemStack.Children.Add(framy);
 
 
         }

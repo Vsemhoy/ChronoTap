@@ -2660,3 +2660,8 @@ C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\tie_dress.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\ukulele_guitar.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\wrench_tool.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\pie_chart.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\pie_chart.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\pie_chart.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\pie_chart.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\pie_chart.png

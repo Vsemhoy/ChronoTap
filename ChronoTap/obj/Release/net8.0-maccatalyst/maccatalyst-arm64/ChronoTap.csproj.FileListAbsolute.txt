@@ -858,3 +858,6 @@ C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\city_building@3x.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\city_building@2x.png
 C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\city_building.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\pie_chart@3x.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\pie_chart@2x.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\resizetizer\r\pie_chart.png

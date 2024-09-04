@@ -33,6 +33,14 @@
             <param name="e"></param>
             <exception cref="T:System.NotImplementedException"></exception>
         </member>
+        <member name="M:ChronoTap.Pages.Elements.Modals.EventEditorModal.TbButton_removeEvent_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Remove event at all
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
         <member name="F:ChronoTap.Storage.Database.DatabaseService.DBS">
             Sync version of connection 
         </member>

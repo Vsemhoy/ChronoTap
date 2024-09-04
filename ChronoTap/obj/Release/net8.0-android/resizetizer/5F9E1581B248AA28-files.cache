@@ -128,6 +128,7 @@ obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\phone_smart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\photo_camera.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\piano_keys.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\picture_hanged.png
+obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\pie_chart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\piggy_bank.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\pill_capsule.png
 obj\Release\net8.0-android\resizetizer\r\drawable-hdpi\pipette.png
@@ -319,6 +320,7 @@ obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\phone_smart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\photo_camera.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\piano_keys.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\picture_hanged.png
+obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\pie_chart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\piggy_bank.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\pill_capsule.png
 obj\Release\net8.0-android\resizetizer\r\drawable-mdpi\pipette.png
@@ -510,6 +512,7 @@ obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\phone_smart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\photo_camera.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\piano_keys.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\picture_hanged.png
+obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\pie_chart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\piggy_bank.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\pill_capsule.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xhdpi\pipette.png
@@ -701,6 +704,7 @@ obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\phone_smart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\photo_camera.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\piano_keys.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\picture_hanged.png
+obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\pie_chart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\piggy_bank.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\pill_capsule.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxhdpi\pipette.png
@@ -892,6 +896,7 @@ obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\phone_smart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\photo_camera.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\piano_keys.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\picture_hanged.png
+obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\pie_chart.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\piggy_bank.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\pill_capsule.png
 obj\Release\net8.0-android\resizetizer\r\drawable-xxxhdpi\pipette.png

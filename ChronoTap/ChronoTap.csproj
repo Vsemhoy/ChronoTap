@@ -43,7 +43,7 @@
 		<AndroidSigningKeyStore>../chronotap.keystore</AndroidSigningKeyStore>
 		<AndroidSigningStorePass>ChronoKeyPass</AndroidSigningStorePass>
 		<FileVersion>1.0.0</FileVersion>
-		<AssemblyVersion>0.0.2</AssemblyVersion>
+		<AssemblyVersion>0.0.6</AssemblyVersion>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-android|AnyCPU'">
@@ -301,7 +301,6 @@
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Maui" Version="9.0.2" />
 		<PackageReference Include="CommunityToolkit.Maui.Core" Version="9.0.2" />
-		<PackageReference Include="Microcharts.Maui" Version="1.0.0" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />

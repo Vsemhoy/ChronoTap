@@ -2146,6 +2146,21 @@
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\picture_hanged.scale-400.png">
       <PackagePath>picture_hanged.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-100.png">
+      <PackagePath>pie_chart.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-125.png">
+      <PackagePath>pie_chart.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-150.png">
+      <PackagePath>pie_chart.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-200.png">
+      <PackagePath>pie_chart.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pie_chart.scale-400.png">
+      <PackagePath>pie_chart.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoTap\ChronoTap\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\piggy_bank.scale-100.png">
       <PackagePath>piggy_bank.scale-100.png</PackagePath>
     </AppxPackagedFile>

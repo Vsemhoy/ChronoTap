@@ -101,8 +101,7 @@ namespace ChronoTap.Pages.Elements.Modals
             this.button_colorPicker.Shadow = BaseTheme.THEME.CardShadow;
 
             this.button_iconPicker.Text = "Choose the icon";
-            this.button_iconPicker.Clicked += Button_iconPicker_Clicked
-                ;
+            this.button_iconPicker.Clicked += Button_iconPicker_Clicked;
             this.mainStack.Children.Add(this.button_iconPicker);
 
             this.button_close.Text = "Close";

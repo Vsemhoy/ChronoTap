@@ -39,10 +39,15 @@ namespace ChronoTap.Pages.Elements.Modals
         private Entry resultInput = new Entry();
         private Editor descriptionInput = new Editor();
 
+        private Label startPosition = new Label();
+        private Label endPosition = new Label();
+
         public string? resultText = string.Empty;
         public string? descriptionText = string.Empty;
 
         public ChronoEvent sourceData { get; set; }
+
+        public ToolbarItem tbButton_removeEvent = new ToolbarItem();
 
         public EventEditorModal()
         {
@@ -77,6 +82,9 @@ namespace ChronoTap.Pages.Elements.Modals
             this.mainStack.Children.Add(this.descriptionInput);
             this.descriptionInput.MaxLength = 2200;
 
+            this.mainStack.Children.Add(this.startPosition);
+            this.mainStack.Children.Add(this.endPosition);
+
 
             this.button_close.Text = "Close";
             this.button_create.Text = "Create";
@@ -101,7 +109,23 @@ namespace ChronoTap.Pages.Elements.Modals
 
             this.SetButtonBlock();
             this.button_save.Clicked += Button_saveEvent_Clicked;
+
+            this.tbButton_removeEvent.Clicked += TbButton_removeEvent_Clicked;
         }
+
+
+        /// <summary>
+        /// Remove event at all
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        /// <exception cref="NotImplementedException"></exception>
+        private async void TbButton_removeEvent_Clicked(object? sender, EventArgs e)
+        {
+            await ModalManager.EventEditorModal_ActionDelete(sender, e);
+        }
+
+
 
 
         private async void Button_saveEvent_Clicked(object? sender, EventArgs e)
@@ -121,6 +145,7 @@ namespace ChronoTap.Pages.Elements.Modals
         {
             this.buttonGrid_1.Children.Clear();
             this.buttonGrid_2.Children.Clear();
+            this.ToolbarItems.Clear();
 
             this.buttonGrid_2.Children.Add(this.button_close);
             Grid.SetColumn(this.button_close, 0);
@@ -130,6 +155,7 @@ namespace ChronoTap.Pages.Elements.Modals
                 buttonGrid_2.Children.Add(this.button_create);
                 Grid.SetColumn(this.button_create, 1);
                 //this.Title = "Create new category";
+
             }
             else
             {
@@ -137,6 +163,16 @@ namespace ChronoTap.Pages.Elements.Modals
                 Grid.SetColumn(this.button_save, 1);
                 //this.Title = "Edit category";
 
+            }
+
+            if (this.sourceData != null)
+            {
+                if (this.sourceData.IsFinished)
+                {
+                    this.tbButton_removeEvent.Text = "Remove event";
+                    this.tbButton_removeEvent.Order = ToolbarItemOrder.Secondary;
+                    this.ToolbarItems.Add(this.tbButton_removeEvent);
+                }
             }
         }
 
@@ -161,6 +197,28 @@ namespace ChronoTap.Pages.Elements.Modals
             this.resultInput.Text = this.resultText == null ? string.Empty : this.resultText;
             this.descriptionInput.Text = this.descriptionText == null ? string.Empty : this.descriptionText;
             this.sourceData = sourceEvent;
+
+            if (sourceEvent.StartLocation != null && sourceEvent.StartLocation != string.Empty)
+            {
+                this.startPosition.Text = sourceEvent.StartLocation;
+                this.startPosition.IsVisible = true;
+
+            } else
+            {
+                this.startPosition.IsVisible = false;
+            }
+
+            if (sourceEvent.EndLocation != null && sourceEvent.EndLocation != string.Empty)
+            {
+                this.endPosition.Text = sourceEvent.EndLocation;
+                this.endPosition.IsVisible = true;
+
+            }
+            else
+            {
+                this.endPosition.IsVisible = false;
+            }
+
             this.SetButtonBlock();
         }
 
